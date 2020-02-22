@@ -1,2 +1,3 @@
 # Hello-World
-tutorial repository
+
+Hi! i'm usagi
